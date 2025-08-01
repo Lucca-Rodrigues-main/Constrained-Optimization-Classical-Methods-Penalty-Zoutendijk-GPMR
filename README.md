@@ -150,3 +150,17 @@ $$
 & x_2 \ge 0
 \end{aligned}
 $$
+
+## Referências
+
+[1] [Bazaraa, 2006] M.S. Bazaraa, H.D. Sherali, C. Shetty, Nonlinear Programming: Theory and Algorithms, 3rd Ed., John Wiley, 2006.
+
+[2] [Luenberger 2008] D.G. Luenberger, Y. Ye, Linear and Nonlinear Programming, Third Ed., Addison Wesley, 2008, Springer
+
+[3] [Griva, 2009] Igor Griva, Stephen G. Nash & Ariela Sofer. Linear and Nonlinear Optimization 2nd Ed., SIAM, Philadelphia, USA.
+
+[4] [Bakr, 2013] Mohamed Bakr. Nonlinear Optimization in Electrical Engineering with Applications in MATLAB 2nd Ed., IET, London, United Kingdom
+
+[5] [Bertsekas, 1999] Dimitri P. Bertsekas. Nonlinear Programming. Athena Scientific. 2nd Ed., 1999
+
+[6] [Antoniou, 2007] Antoniou, A. and Lu, W.S Practical Optimization: Algorithms and Engineering Applications, Springer, 2007
